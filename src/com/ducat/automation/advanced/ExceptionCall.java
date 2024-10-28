@@ -6,6 +6,8 @@ public class ExceptionCall {
         System.out.println("insde  do stuff method");
         domorestuff();
         System.out.println("after do more stuff method");
+        System.out.println("after do more stuff method");
+
     }
     public  void domorestuff() {
         System.out.println("Inside do more stuff  method");
